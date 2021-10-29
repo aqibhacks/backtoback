@@ -1,0 +1,61 @@
+Agile model/Agile methodology/Agile process:
+===========================================
+- Agile is nothing but a collection of several mini waterfall.
+- it is an iterative and incremental approach.
+
+Agile vs Scrum:
+---------------
+- Agile is a process model that define the process and principles.
+- Agiile process and principles ko define krta ha.
+
+- Scrum is a kind of framework through which we develope the software by following agile principle.
+- Scrum basically un process ko follow ya apply krta ha.
+
+Scrum Team:
+-----------
+- Scrum me different teams hoti han jinko hum scrum team kehty han.
+- Scrum team ma Product Owner, Scrum Master, Dev Team,  QA team etc.
+- Scrum me sab as a team kaam krty han aik project per.
+
+Scrum Terminologies:
+===================
+* User Story:
+- A feature or a module in a software is a user story.
+
+* Epic:
+- collection of user stories.
+- these stories are related to one another and combine to form one large story.
+
+* Product backlog:
+- Contain the list of the user stories or new features, changes to existing featues, bug fixes etc. 
+- Prepared by product owner.
+
+* Sprint backlog: 
+- User stories that need to be completed during a specific period of time.
+
+* Burn Down chart:
+- shows how  much work remaining in the sprint. 
+- Maintianed by the scrum master daily.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
